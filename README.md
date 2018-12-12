@@ -11,7 +11,7 @@ Keeping in sight the history of Olympics, we are trying to tell the history of o
 picked up select moments of the last century which had their impact on entire world and can also be seen through
 the Olympics.
 
-Our final product will look something like below.
+Click on DEMO to view the project.
 
 ![Screenhot](screenshot2.jpg)
 
